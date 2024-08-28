@@ -11,8 +11,8 @@ const fontSans = FontSans({
 });
 
 export const metadata: Metadata = {
-  title: "Cozii Technology",
-  description: "Cozii Technology",
+  title: "M A R S",
+  description: "Application for Mars",
 };
 
 export default function RootLayout({
